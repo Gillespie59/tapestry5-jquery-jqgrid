@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Gillespie59/tapestry5-jquery-jqgrid.svg?branch=master)](https://travis-ci.org/Gillespie59/tapestry5-jquery-jqgrid)
+
 # Tapestry 5 jQuery jqgrid integration Module - 1.1.1
 
 ## Changelog
